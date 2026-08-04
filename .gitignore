@@ -1,0 +1,7 @@
+# Local dev tooling / preview config (not part of the deployed site)
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
